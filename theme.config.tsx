@@ -5,12 +5,12 @@ import image_src from './images/logo.svg'
 
 const config: DocsThemeConfig = {
   logo: (
-    <Image src={image_src} alt={""} width={100}/>
+    <Image src={image_src} alt={""} width={50}/>
   ),
   nextThemes: { defaultTheme: "light", forcedTheme: "light" },
   useNextSeoProps() {
     return {
-      titleTemplate: "%s - %NETWORK_NAME Docs",
+      titleTemplate: "%s - Huddle01 Docs",
     };
   },
   navigation: false,

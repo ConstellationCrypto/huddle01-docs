@@ -69,9 +69,9 @@ Modify the Hardhat configuration file and create a secure file to store your pri
             url: "https://eth-rinkeby.alchemyapi.io/v2/123abc123abc123abc123abc123abcde",
             accounts: [privateKey]
         },
-        %NETWORK_SLUG: {
-            url: "%RPC_URL",  // RPC URL Here
-            chainId: %CHAIN_ID , // ChainID Here
+        huddle01: {
+            url: "https://huddle01.calderachain.xyz/http",  // RPC URL Here
+            chainId: 12323 , // ChainID Here
         }
     },
     }
@@ -113,5 +113,5 @@ Modify the Hardhat configuration file and create a secure file to store your pri
     ```
 4. Deploy `your_contract.sol` using the command below
     ```
-    npx hardhat run scripts/deploy.js --network %NETWORK_SLUG
+    npx hardhat run scripts/deploy.js --network huddle01
     ```

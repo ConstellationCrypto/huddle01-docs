@@ -1,14 +1,14 @@
 {
-  "index": "About %NETWORK_NAME",
+  "index": "About Huddle01",
   "seperator_1": {
     "type": "separator",
     "title": "Getting Started"
   },
-  "metamask": "Add %NETWORK_NAME to Metamask",
-  "bridge": "Bridge Assets to %NETWORK_NAME",
+  "metamask": "Add Huddle01 to Metamask",
+  "bridge": "Bridge Assets to Huddle01",
   "faucet": "Receive Faucet Funds",
   "advanced": {
-    "title":"Deploy on %NETWORK_NAME"
+    "title":"Deploy on Huddle01"
   },
   "seperator_2": {
     "type": "separator",
@@ -16,17 +16,17 @@
   },
   "explorer": {
     "title": "Block Explorer ↗",
-    "href": "%EXPLORER_URL",
+    "href": "https://huddle01.calderaexplorer.xyz",
     "newWindow": true
   },
   "Bridge": {
     "title": "Bridge UI ↗",
-    "href": "%BRIDGE_URL",
+    "href": "https://huddle01.bridge.caldera.xyz",
     "newWindow": true
   },
   "hub": {
     "title": "Hub Page ↗",
-    "href": "%HUB_URL",
+    "href": "https://huddle01.hub.caldera.xyz",
     "newWindow": true
   }
 }
