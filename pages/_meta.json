@@ -1,0 +1,32 @@
+{
+  "index": "About %NETWORK_NAME",
+  "seperator_1": {
+    "type": "separator",
+    "title": "Getting Started"
+  },
+  "metamask": "Add %NETWORK_NAME to Metamask",
+  "bridge": "Bridge Assets to %NETWORK_NAME",
+  "faucet": "Receive Faucet Funds",
+  "advanced": {
+    "title":"Deploy on %NETWORK_NAME"
+  },
+  "seperator_2": {
+    "type": "separator",
+    "title": "User Tools"
+  },
+  "explorer": {
+    "title": "Block Explorer ↗",
+    "href": "%EXPLORER_URL",
+    "newWindow": true
+  },
+  "Bridge": {
+    "title": "Bridge UI ↗",
+    "href": "%BRIDGE_URL",
+    "newWindow": true
+  },
+  "hub": {
+    "title": "Hub Page ↗",
+    "href": "%HUB_URL",
+    "newWindow": true
+  }
+}
