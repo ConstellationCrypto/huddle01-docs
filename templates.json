@@ -1,7 +1,7 @@
 {
   "%NETWORK_NAME": "Huddle01",
   "%NETWORK_SLUG": "huddle01",
-  "%EXPLORER_URL": "https://huddle01.explorer.caldera.xyz",
+  "%EXPLORER_URL": "https://huddle01.calderaexplorer.xyz",
   "%BRIDGE_URL": "https://huddle01.bridge.caldera.xyz",
   "%HUB_URL": "https://huddle01.hub.caldera.xyz",
   "%RPC_URL": "https://huddle01.calderachain.xyz/http",
